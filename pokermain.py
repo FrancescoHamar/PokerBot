@@ -705,4 +705,4 @@ async def newHand(ctx, amount=50):
 print("Bot starting up")
 
 
-client.run("NzU2NDM2OTA4OTE3MTI5Mjc3.X2R0xQ.ecmvFirEjwb-U4ehmXru6Wf3INE")
+client.run("")
