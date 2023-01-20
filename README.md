@@ -12,4 +12,4 @@ This involves implementing 3 chats: a lobby and a private chat for each player.
 
 Otherwise, the bot can simply be used by itself to play games without any stakes.
 
-The file contains IDs for the chats found on the server that it was tested on. The run token was also removed.
+The file contains IDs for the chats found on the server that it was tested on. The run token was also removed (the one in the commit history is no longer in function).
