@@ -7,7 +7,7 @@ After starting a game from a given lobby, the two players gain access to private
 
 ## Possible implementations:
 
-THe idea is possibly to tie server points into the game by implementing this one page script into larger Custom Discord Bot, as well as creating the proper environment.
+The idea is possibly to tie server points into the game by implementing this one page script into larger Custom Discord Bot, as well as creating the proper environment.
 This involves implementing 3 chats: a lobby and a private chat for each player.
 
 Otherwise, the bot can simply be used by itself to play games without any stakes.
